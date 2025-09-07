@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Capability Statement Generator",
+			"type": "shell",
+			"command": "C:/Users/hafiz/OneDrive/Desktop/cap_stat/.venv/Scripts/python.exe",
+			"args": [
+				"capability_statement_generator.py"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}
