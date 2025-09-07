@@ -6,7 +6,6 @@ __pycache__/
 .Python
 build/
 develop-eggs/
-dist/
 downloads/
 eggs/
 .eggs/
@@ -51,3 +50,6 @@ Thumbs.db
 
 # Local output files (optional - you might want to include the example JSON)
 # pharmatech_capability_statement.json
+
+# Keep dist folder for now (uncomment to exclude)
+# dist/
